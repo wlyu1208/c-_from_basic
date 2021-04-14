@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iZA8KukZRDrpeq2OdSw5qjT8DQ+q62ua0jnoEfqILtA5Exp73rBPuHlyJW903uIVbakbjlLqThY5M/EindorTg==",
+  "dgSpecHash": "E9RSuqLZ2JFIJdJ+jQtpevqYhl9mOqKtZao4+oVAA14yD6jn6uuvci7n1DJAN/r7pHhc3Wh6S6Hdf8mj2HRhCA==",
   "success": true,
-  "projectFilePath": "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\hello_world.csproj",
+  "projectFilePath": "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\hello_world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

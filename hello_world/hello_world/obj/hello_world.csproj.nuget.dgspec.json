@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\hello_world.csproj": {}
+    "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\hello_world.csproj": {}
   },
   "projects": {
-    "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\hello_world.csproj": {
+    "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\hello_world.csproj",
+        "projectUniqueName": "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\hello_world.csproj",
         "projectName": "hello_world",
-        "projectPath": "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\hello_world.csproj",
+        "projectPath": "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\hello_world.csproj",
         "packagesPath": "C:\\Users\\wwlyu\\.nuget\\packages\\",
-        "outputPath": "C:\\usr\\git\\self_study\\c#\\hello_world\\hello_world\\obj\\",
+        "outputPath": "C:\\usr\\git\\c_sharp_from_basic\\hello_world\\hello_world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
