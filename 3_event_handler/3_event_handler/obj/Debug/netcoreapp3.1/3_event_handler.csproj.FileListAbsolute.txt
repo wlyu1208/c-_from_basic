@@ -1,0 +1,15 @@
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.exe
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.deps.json
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.runtimeconfig.json
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.runtimeconfig.dev.json
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.dll
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\bin\Debug\netcoreapp3.1\3_event_handler.pdb
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.csprojAssemblyReference.cache
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\_3_event_handler.Form1.resources
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.csproj.GenerateResource.cache
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.AssemblyInfoInputs.cache
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.AssemblyInfo.cs
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.csproj.CoreCompileInputs.cache
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.dll
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.pdb
+C:\usr\git\c_sharp_from_basic\3_event_handler\3_event_handler\obj\Debug\netcoreapp3.1\3_event_handler.genruntimeconfig.cache
